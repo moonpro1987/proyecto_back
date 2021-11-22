@@ -25,7 +25,7 @@ const EmpleadosSchema = new Schema({
   mail: {
     type: String,
     required: false,
-    max: 80,
+    max: 90,
   },
   direccion: {
     type: String,
